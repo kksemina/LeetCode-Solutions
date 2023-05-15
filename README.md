@@ -21,3 +21,4 @@ Solutions to LeetCode problems in Python. Updated Daily.
 | 1678 | https://leetcode.com/problems/goal-parser-interpretation/ |  | Easy | String |
 | 14 | https://leetcode.com/problems/longest-common-prefix/ |  | Easy  | String |
 | 13 | https://leetcode.com/problems/roman-to-integer/ |  | Easy | Hash Table |
+| 217 | [Contains Duplicate](https://github.com/kksemina/LeetCode-Solutions/blob/main/Python/217_Contains_Duplicate.py)|  | Easy | Hash Table, Loop Invariant, Linear Search, Sorting |
