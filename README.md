@@ -24,4 +24,5 @@ Solutions to LeetCode problems in Python. Updated Daily.
 | 217 | Contains Duplicate | [python](https://github.com/kksemina/LeetCode-Solutions/blob/main/Python/217_Contains_Duplicate.py)| Easy | Data Structure I - Hash Table, Loop Invariant, Linear Search, Sorting |
 | 53 | Maximum Subarray | [python](https://github.com/kksemina/LeetCode-Solutions/blob/main/Python/53_Maximum_Subarray.py)| Medium | Data Structure I - Array |
 | 1056 | Confusing Number | [python](https://github.com/kksemina/LeetCode-Solutions/blob/main/Python/1056_Confusing_Number.py)| Easy | Math, String |
+| 1427 | Perform String Shifts | [python](https://github.com/kksemina/LeetCode-Solutions/blob/main/Python/1427_Perform_String_Shifts.py)| Easy | Array, Math, String |
 
