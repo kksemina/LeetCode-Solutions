@@ -25,4 +25,14 @@ Solutions to LeetCode problems in Python. Updated Daily.
 | 53 | Maximum Subarray | [python](https://github.com/kksemina/LeetCode-Solutions/blob/main/Python/53_Maximum_Subarray.py)| Medium | Data Structure I - Array |
 | 1056 | Confusing Number | [python](https://github.com/kksemina/LeetCode-Solutions/blob/main/Python/1056_Confusing_Number.py)| Easy | Math, String |
 | 1427 | Perform String Shifts | [python](https://github.com/kksemina/LeetCode-Solutions/blob/main/Python/1427_Perform_String_Shifts.py)| Easy | Array, Math, String |
+| 266 | Palindrome Permutation | | Easy | Hash Table, String |
+| 760 | Find Anagram Mappings | | Easy | Hash Table, Array |
+| 1133 | Largest Unique Number | | Easy | Hash Table, Array |
+| 734 | Sentance Similarity | | Easy | Hash Table, Array |
+| 760 | Find Anagram Mappings | | Easy | Hash Table, Array |
+| 1198 | Find Smallest Common Element in All Rows | | Medium | Hash Table, Array |
+
+
+
+
 

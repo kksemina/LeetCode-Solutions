@@ -1,0 +1,26 @@
+nums2 =[50,12,32,46,28]
+nums1 = [12,28,46,32,50]
+
+class Solution(object):
+    def anagramMappings(self, nums1, nums2):
+        """
+        :type nums1: List[int]
+        :type nums2: List[int]
+        :rtype: List[int]
+        """
+
+    # Create new dictionary
+        res = {}
+        final = []
+
+    #  loop and go through each number in list 2 and give them and index
+        for i, num in enumerate(nums2):
+            res.update({num: i})
+
+    # Now we want to loop trough the list 1 and match them to existing items in the list 
+        for i, num in enumerate(nums1):
+            if num in res:
+                final.append(res[num])
+        
+        return(final)
+        

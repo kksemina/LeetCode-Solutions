@@ -1,0 +1,27 @@
+class Solution(object):
+    def canPermutePalindrome(self, s):
+        """
+        :type s: str
+        :rtype: bool
+        """
+        
+        # We want to see if any combinaton of the string can form a palidrome 
+        # Example: "aab" -> aba 
+        odd = 0 
+
+        # So we need to count how many times each letter appears 
+        count = collections.Counter(s)
+        
+        # Now go through the stored values
+        for value in count.values(): 
+            # Find ifs an odd number 
+            if value % 2 != 0:
+                odd += 1
+                #lets check if the odd number is bigger than 1
+                if odd >1:
+                    return False
+
+        return True
+
+
+        
